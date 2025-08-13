@@ -1,0 +1,12 @@
+path
+CMakeLists.txt
+README.md
+LICENSE
+include/MNISTParser.hpp
+src/MNISTParser.cpp
+include/HyperGlottalEncoder.hpp
+src/HyperGlottalEncoder.cpp
+include/GLTLStreamer.hpp
+src/GLTLStreamer.cpp
+src/main.cpp
+SAMPLE_OUTPUT.jsonl
